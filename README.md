@@ -20,7 +20,7 @@ Developed as part of the **Product Dynamics** course at **Delft University of Te
 - **Language:** C++  
 - **Environment:** VS Code + PlatformIO
 <br><br>
-![Hardware Circuit](https://github.com/Dhano70/escaper-product-dynamics/blob/main/hardware%20circuit.png)
+![Hardware Circuit](https://github.com/Dhano70/Escaper/blob/main/images/hardware%20circuit.png)
 
   Hardware circuit
 
