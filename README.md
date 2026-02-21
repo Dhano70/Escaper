@@ -5,7 +5,7 @@ The **Escaper** is an autonomous robotic system designed to navigate independent
 
 The project focuses on implementing a real-time PI control loop to manage velocity and proximity using ultrasonic feedback for environmental sensing.
 
-Developed as part of the **Product Dynamics** course at **Delft University of Technology**.
+Developed as part of the **Product Dynamics** course at **Delft University of Technology** (2021 - 2022).
 
 ---
 
