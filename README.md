@@ -7,7 +7,9 @@ The project focuses on implementing a real-time PI control loop to manage veloci
 
 Developed as part of the **Product Dynamics** course at **Delft University of Technology** (2021 - 2022).
 
-![Escaper Use Case](https://github.com/Dhano70/Escaper/blob/main/images/escaper.png)
+<p align="center">
+  <img src="https://github.com/Dhano70/Escaper/blob/main/images/escaper.png" alt="Escaper Use Case">
+</p>
 
 ---
 
@@ -22,15 +24,13 @@ Developed as part of the **Product Dynamics** course at **Delft University of Te
 - **Language:** C++  
 - **Environment:** VS Code + PlatformIO
 <br><br>
-![Hardware Circuit](https://github.com/Dhano70/Escaper/blob/main/images/hardware%20circuit.png)
-
+<p align="center">
+  <img src="https://github.com/Dhano70/Escaper/blob/main/images/hardware%20circuit.png" alt="Hardware circuit">
+  <br>
   Hardware circuit
+</p>
 
 ---
-
-
-
-
 
 ## Control Parameters
 
